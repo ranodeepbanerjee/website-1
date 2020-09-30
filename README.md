@@ -1,6 +1,6 @@
 # ThinkFOSS website source code
 
-The code used to power www.thinkfoss.com, which was hosted on Redhat Openshift. We used to welcome contributions as patchsets, 
+The code is used to power www.thinkfoss.com, which was hosted on Redhat Openshift. We used to welcome contributions as patchsets, 
 and pull requests 
 
 ## details
